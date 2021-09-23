@@ -1,4 +1,4 @@
-# Gamed 0-day (iOS 15)
+# Gamed 0-day (iOS 15.0)
 
 Any app installed from the App Store may access the following data without any prompt from the user:
 - Apple ID email and full name associated with it
