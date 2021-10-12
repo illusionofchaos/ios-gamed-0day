@@ -1,4 +1,6 @@
-# Gamed 0-day (iOS 15.0)
+# iOS gamed exploit (fixed in 15.0.2)
+
+**Update: Apple has quietly fixed this in iOS 15.0.2 without any kind of public acknowledgement or credit.**
 
 Any app installed from the App Store may access the following data without any prompt from the user:
 - Apple ID email and full name associated with it
